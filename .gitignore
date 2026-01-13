@@ -1,0 +1,44 @@
+Backend/.env
+Backend/node_modules
+Frontend/node_modules
+dist
+dist-ssr
+build
+*.local
+logs
+*.log# E-commerce project
+CodeAlpha_e-commerce/Backend/.env
+CodeAlpha_e-commerce/Backend/node_modules
+CodeAlpha_e-commerce/Frontend/node_modules
+
+# Social media project
+CodeAlpha_SocialMedia/backend/.env
+CodeAlpha_SocialMedia/backend/node_modules
+CodeAlpha_SocialMedia/frontend/node_modules
+
+# Common ignores
+dist
+dist-ssr
+build
+*.local
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/*
+.idea
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/*
+.idea
+.DS_Store
+Thumbs.db
+Desktop.ini
